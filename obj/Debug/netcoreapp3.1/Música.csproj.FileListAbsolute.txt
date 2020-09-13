@@ -1,0 +1,13 @@
+C:\Users\POSITIVO\Desktop\PC1\Música\bin\Debug\netcoreapp3.1\Música.exe
+C:\Users\POSITIVO\Desktop\PC1\Música\bin\Debug\netcoreapp3.1\Música.deps.json
+C:\Users\POSITIVO\Desktop\PC1\Música\bin\Debug\netcoreapp3.1\Música.runtimeconfig.json
+C:\Users\POSITIVO\Desktop\PC1\Música\bin\Debug\netcoreapp3.1\Música.runtimeconfig.dev.json
+C:\Users\POSITIVO\Desktop\PC1\Música\bin\Debug\netcoreapp3.1\Música.dll
+C:\Users\POSITIVO\Desktop\PC1\Música\bin\Debug\netcoreapp3.1\Música.pdb
+C:\Users\POSITIVO\Desktop\PC1\Música\obj\Debug\netcoreapp3.1\Música.csprojAssemblyReference.cache
+C:\Users\POSITIVO\Desktop\PC1\Música\obj\Debug\netcoreapp3.1\Música.AssemblyInfoInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\Música\obj\Debug\netcoreapp3.1\Música.AssemblyInfo.cs
+C:\Users\POSITIVO\Desktop\PC1\Música\obj\Debug\netcoreapp3.1\Música.csproj.CoreCompileInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\Música\obj\Debug\netcoreapp3.1\Música.dll
+C:\Users\POSITIVO\Desktop\PC1\Música\obj\Debug\netcoreapp3.1\Música.pdb
+C:\Users\POSITIVO\Desktop\PC1\Música\obj\Debug\netcoreapp3.1\Música.genruntimeconfig.cache
